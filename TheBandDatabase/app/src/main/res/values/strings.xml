@@ -1,17 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">The Band Database</string>
     <string name="details">Details</string>
-
     <string-array name="bands">
         <item>The Beatles</item>
         <item>Nirvana</item>
         <item>U2</item>
+        <!-- ChatGPT generated data -->
+        <item>Pink Floyd</item>
+        <item>The Rolling Stones</item>
+        <item>Led Zeppelin</item>
+        <item>Queen</item>
+        <item>The Who</item>
+        <item>AC/DC</item>
+        <item>Metallica</item>
+        <item>Guns N\' Roses</item>
+        <item>Aerosmith</item>
+        <item>Red Hot Chili Peppers</item>
+        <item>Bon Jovi</item>
+        <item>The Eagles</item>
+        <item>Fleetwood Mac</item>
+        <item>The Police</item>
+        <item>Coldplay</item>
+        <item>Green Day</item>
+        <item>Radiohead</item>
+        <item>Foo Fighters</item>
+        <item>Linkin Park</item>
+        <item>Maroon 5</item>
     </string-array>
-
     <string-array name="descriptions">
         <item>An English rock band that formed in Liverpool in 1960.</item>
         <item>An American rock band that formed in Washington in 1987.</item>
         <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <!-- ChatGPT generated data -->
+        <item>An English rock band formed in London in 1965, known for their progressive and psychedelic music.</item>
+        <item>An English rock band formed in London in 1962, famous for hits like \'Satisfaction\'.</item>
+        <item>An English rock band formed in London in 1968, known for their heavy, guitar-driven sound.</item>
+        <item>A British rock band formed in London in 1970, known for their elaborate stage shows.</item>
+        <item>An English rock band formed in London in 1964, known for their energetic live performances.</item>
+        <item>An Australian rock band formed in Sydney in 1973, known for their hard rock/blues rock sound.</item>
+        <item>An American heavy metal band formed in Los Angeles in 1981, known for fast tempos and aggressive musicianship.</item>
+        <item>An American hard rock band formed in Los Angeles in 1985, known for their hit \'Sweet Child o\' Mine\'.</item>
+        <item>An American rock band formed in Boston in 1970, known for their blues-based rock music.</item>
+        <item>An American rock band formed in Los Angeles in 1983, known for their funk rock style.</item>
+        <item>An American rock band formed in Sayreville, New Jersey in 1983, known for their anthem \'Livin\' on a Prayer\'.</item>
+        <item>An American rock band formed in Los Angeles in 1971, known for their harmonious sound.</item>
+        <item>A British-American rock band formed in London in 1967, known for their album \'Rumours\'.</item>
+        <item>An English rock band formed in London in 1977, known for their reggae-influenced rock.</item>
+        <item>A British rock band formed in London in 1996, known for their atmospheric sound.</item>
+        <item>An American punk rock band formed in California in 1986, known for their album \'American Idiot\'.</item>
+        <item>An English rock band formed in Oxford in 1985, known for their experimental approach to music.</item>
+        <item>An American rock band formed in Seattle in 1994, started by former Nirvana drummer Dave Grohl.</item>
+        <item>An American rock band formed in California in 1996, known for their fusion of heavy metal and hip hop.</item>
+        <item>An American pop rock band formed in Los Angeles in 1994, known for their catchy pop hits.</item>
     </string-array>
 </resources>
-
