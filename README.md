@@ -3,7 +3,7 @@
 Students will apply mobile development principles and best practices to develop mobile applications using user-centered design principles and industry standards. Upon completion of a fully-functional mobile application, students will conduct security, product assuredness, and compatibility checks before launching the application.
 
 ## Project
-<p>I developed an inventory app for my project in the course. It was meant to be used to manage inventory within a warehouse with the ability to receive, store, and consume items in inventory, while tracking the current quantity and location in the warehouse the item is located.</p>
+<p>I developed an inventory app, <b><i>Effiecient Stock</i></b>, for my project in the course. It was meant to be used to manage inventory within a warehouse with the ability to receive, store, and consume items in inventory, while tracking the current quantity and location in the warehouse the item is located.</p>
 <p>To accomplish this the following screens and UI elements were required</p>
 
 * Login Screen with username, and password.
